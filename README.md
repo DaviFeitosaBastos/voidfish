@@ -43,7 +43,7 @@ A minimal but information-rich Fish shell theme built for developers and securit
 ### User prompt
 
 ```bash
-git clone https://github.com/yourusername/voidfish
+git clone https://github.com/DaviFeitosaBastos/voidfish
 mkdir -p ~/.local/share/omf/themes/voidfish/functions
 cp voidfish/functions/fish_prompt.fish ~/.local/share/omf/themes/voidfish/functions/
 cp voidfish/functions/_fisk_concat.fish ~/.local/share/omf/themes/voidfish/functions/
