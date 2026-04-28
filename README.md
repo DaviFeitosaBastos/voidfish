@@ -7,10 +7,14 @@ A minimal but information-rich Fish shell theme built for developers and securit
 ```
 [0] davi@feitosa0x ~/D/G/Conversor (main +1 ~2 ?1 ⬆1 ⬇1 ⎇2) $          1.2s(14:32:07)
 ```
+<img width="956" height="272" alt="image" src="https://github.com/user-attachments/assets/583d1d12-b90d-4018-95d5-19a1415b2da7" />
+
 
 ```
 ⚡ root@feitosa0x ~/D/G/Conversor (main) [ROOT] ➜#                          (14:32:07)
 ```
+<img width="958" height="269" alt="image" src="https://github.com/user-attachments/assets/911ff097-c2d1-4494-966e-410e34fe5bdf" />
+
 
 ## Features
 
